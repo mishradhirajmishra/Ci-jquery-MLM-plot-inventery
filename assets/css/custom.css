@@ -1,0 +1,18 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+.panel-title {
+    display: none;
+}
+.panel-success {
+    border-color: #421e02 !important;
+}
+div#example_wrapper,td {
+    border: 1px solid #111 !important;
+}
+label,div#example_wrapper {
+   color: #421e02 !important;
+}
